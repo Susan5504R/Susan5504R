@@ -1,56 +1,32 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                    SARAH'S GITHUB PROFILE README                              -->
-<!--               GitHub Username: Susan5504R | IIIT Allahabad                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    SECTION 1: HERO HEADER                       ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<!-- Animated SVG Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:16213e,100:0f3460&height=220&section=header&text=Sarah&fontSize=72&fontColor=00d4ff&fontAlignY=38&desc=AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer%20%7C%20IIITA&descSize=18&descAlignY=60&descColor=a0c4ff&animation=fadeIn" alt="Header Banner"/>
 
-<!-- Typing SVG - Multi Line Animated Intro -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Hey+there%2C+I'm+Sarah+%F0%9F%91%8B;B.Tech+Student+%40+IIIT+Allahabad+%F0%9F%8F%AB;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Learner+%F0%9F%8C%B1;Tech+Explorer+%F0%9F%9A%80;Building+The+Future+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=60&lines=Hey+there%2C+I'm+Sarah+%F0%9F%91%8B;B.Tech+Student+%40+IIIT+Allahabad+%F0%9F%8F%AB;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Learner+%F0%9F%8C%B1;Tech+Explorer+%F0%9F%9A%80;Building+The+Future+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                SECTION 3: ANIMATED PROFILE STATS                ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+---
 
 <div align="center">
-
-<br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Susan5504R&label=👁️%20Profile%20Views&color=0d1117&style=for-the-badge&labelColor=00d4ff)](https://github.com/Susan5504R)
 [![GitHub followers](https://img.shields.io/github/followers/Susan5504R?label=🤝%20Followers&style=for-the-badge&color=0d1117&labelColor=7c3aed&logoColor=white)](https://github.com/Susan5504R?tab=followers)
 [![GitHub User's stars](https://img.shields.io/github/stars/Susan5504R?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=⭐%20Stars&color=0d1117&labelColor=f59e0b)](https://github.com/Susan5504R)
 
-<br/>
-
 </div>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║               SECTION 2: PERSONAL INTRODUCTION                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<br/>
-
-<table align="center" width="95%" border="0">
-<tr>
-<td width="55%" valign="top">
+---
 
 ## `< About Me />`
+
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
 
 ```python
 class Sarah:
@@ -84,168 +60,65 @@ class Sarah:
 
 me = Sarah()
 me.say_hi()
-` ` `
+```
 
-</td>
-<td width="45%" valign="center" align="center">
+> *"The best way to predict the future is to invent it."* — **Alan Kay**
 
-<!-- SECTION 4: ANIMATED CODING GIF -->
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding GIF" style="border-radius: 20px;"/>
-
-<br/><br/>
-
-> *"The best way to predict the future*
-> *is to invent it."*
-> — **Alan Kay**
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║              SECTION 5: ABOUT ME TIMELINE                       ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<br/>
+---
 
 <div align="center">
 
 ## `⚡ My Journey`
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=A0C4FF&center=true&vCenter=true&width=500&lines=Building+%7C+Learning+%7C+Growing+%7C+Innovating" alt="Journey Typing"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=A0C4FF&center=true&vCenter=true&width=500&lines=Building+%7C+Learning+%7C+Growing+%7C+Innovating" alt="Journey Typing"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-<table width="90%" border="0">
-<tr>
-<td align="center" width="20%">
+🌱 &nbsp; **Currently Learning**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Diving deep into **Machine Learning**, **Deep Learning architectures**, and advanced **Full Stack Development**. Currently exploring the intersection of AI and real-world applications at IIIT Allahabad.
 
-` ` `
-    🌱
-     │
-     │
-     ▼
-` ` `
+<br/>
 
-</td>
-<td width="80%" valign="top">
+🤖 &nbsp; **AI & Machine Learning**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Passionate about building intelligent systems — from **predictive models** and **neural networks** to **NLP pipelines** and **computer vision** projects. AI is not just a tool; it's the language of the future.
 
-### Currently Learning
-Diving deep into **Machine Learning**, **Deep Learning architectures**, and advanced **Full Stack Development**. Currently exploring the intersection of AI and real-world applications at IIIT Allahabad.
+<br/>
 
-</td>
-</tr>
-<tr>
-<td align="center">
+💻 &nbsp; **Full Stack Development**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Crafting end-to-end digital experiences with modern tech stacks. From pixel-perfect **React** frontends to scalable **Node.js** backends and optimized **MongoDB** databases.
 
-` ` `
-    🤖
-     │
-     │
-     ▼
-` ` `
+<br/>
 
-</td>
-<td valign="top">
+🚀 &nbsp; **Open Source**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Believing in the power of community-driven innovation. Contributing to open-source projects, learning from the best engineers globally, and giving back to the ecosystem that shaped me.
 
-### AI & Machine Learning
-Passionate about building intelligent systems — from **predictive models** and **neural networks** to **NLP pipelines** and **computer vision** projects. AI is not just a tool; it's the language of the future.
+<br/>
 
-</td>
-</tr>
-<tr>
-<td align="center">
+📚 &nbsp; **Continuous Learning**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Engineering is never static. Constantly upskilling through research papers, hackathons, online courses, and hands-on side projects. Curiosity is my superpower.
 
-` ` `
-    💻
-     │
-     │
-     ▼
-` ` `
+<br/>
 
-</td>
-<td valign="top">
-
-### Full Stack Development
-Crafting end-to-end digital experiences with modern tech stacks. From pixel-perfect **React** frontends to scalable **Node.js** backends and optimized **MongoDB** databases.
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-` ` `
-    🚀
-     │
-     │
-     ▼
-` ` `
-
-</td>
-<td valign="top">
-
-### Open Source
-Believing in the power of community-driven innovation. Contributing to open-source projects, learning from the best engineers globally, and giving back to the ecosystem that shaped me.
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-` ` `
-    📚
-     │
-     │
-     ▼
-` ` `
-
-</td>
-<td valign="top">
-
-### Continuous Learning
-Engineering is never static. Constantly upskilling through research papers, hackathons, online courses, and hands-on side projects. Curiosity is my superpower.
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-` ` `
-    ✨
-` ` `
-
-</td>
-<td valign="top">
-
-### Future Goals
-To build AI-driven products that solve **real-world problems at scale**, contribute to cutting-edge research, and become a **full-stack AI engineer** who bridges the gap between intelligence and impact.
-
-</td>
-</tr>
-</table>
-</div>
+✨ &nbsp; **Future Goals**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To build AI-driven products that solve **real-world problems at scale**, contribute to cutting-edge research, and become a **full-stack AI engineer** who bridges the gap between intelligence and impact.
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  SECTION 6: TECH STACK                          ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<br/>
+---
 
 <div align="center">
 
 ## `🛠️ Tech Arsenal`
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Languages+%7C+Frameworks+%7C+Tools+%7C+Databases" alt="Tech Typing"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Languages+%7C+Frameworks+%7C+Tools+%7C+Databases" alt="Tech Typing"/>
 
 <br/>
 
@@ -308,159 +181,150 @@ To build AI-driven products that solve **real-world problems at scale**, contrib
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║               SECTION 7: AI & ML SHOWCASE                       ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<br/>
+---
 
 <div align="center">
 
 ## `🤖 AI & Machine Learning Universe`
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=600&color=7C3AED&center=true&vCenter=true&width=600&lines=Where+Data+Meets+Intelligence;Building+Minds+with+Mathematics;Neural+Networks+%7C+Models+%7C+Predictions" alt="AI Typing"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=600&color=7C3AED&center=true&vCenter=true&width=600&lines=Where+Data+Meets+Intelligence;Building+Minds+with+Mathematics;Neural+Networks+%7C+Models+%7C+Predictions" alt="AI Typing"/>
+
+</div>
 
 <br/>
 
-<table align="center" width="90%" border="0">
+<div align="center">
+<table>
 <tr>
-<td align="center" width="33%" valign="top">
+<td align="center" width="33%">
 
-### 🧠 Machine Learning
-` ` `
-━━━━━━━━━━━━━━━━━━━
-  Supervised Learning
-  Unsupervised Models
-  Feature Engineering
-  Model Evaluation
-  Cross Validation
-━━━━━━━━━━━━━━━━━━━
-` ` `
-![ML](https://img.shields.io/badge/Scikit--Learn-Expert-7c3aed?style=flat-square&logo=scikit-learn)
+**🧠 Machine Learning**
+
+<pre>
+Supervised Learning
+Unsupervised Models
+Feature Engineering
+Model Evaluation
+Cross Validation
+</pre>
+
+![ML](https://img.shields.io/badge/Scikit--Learn-Active-7c3aed?style=flat-square&logo=scikit-learn)
 
 </td>
-<td align="center" width="33%" valign="top">
+<td align="center" width="33%">
 
-### 🔮 Deep Learning
-` ` `
-━━━━━━━━━━━━━━━━━━━
-  Neural Networks
-  CNNs & RNNs
-  Transfer Learning
-  Model Fine-tuning
-  TensorFlow / Keras
-━━━━━━━━━━━━━━━━━━━
-` ` `
+**🔮 Deep Learning**
+
+<pre>
+Neural Networks
+CNNs & RNNs
+Transfer Learning
+Model Fine-tuning
+TensorFlow / Keras
+</pre>
+
 ![DL](https://img.shields.io/badge/TensorFlow-Learning-FF6F00?style=flat-square&logo=tensorflow)
 
 </td>
-<td align="center" width="33%" valign="top">
+<td align="center" width="33%">
 
-### 📊 Data Science
-` ` `
-━━━━━━━━━━━━━━━━━━━
-  Data Wrangling
-  EDA & Insights
-  Data Visualization
-  Statistical Analysis
-  Pandas / NumPy
-━━━━━━━━━━━━━━━━━━━
-` ` `
+**📊 Data Science**
+
+<pre>
+Data Wrangling
+EDA & Insights
+Data Visualization
+Statistical Analysis
+Pandas / NumPy
+</pre>
+
 ![DS](https://img.shields.io/badge/Pandas-Growing-150458?style=flat-square&logo=pandas)
 
 </td>
 </tr>
 <tr>
-<td align="center" valign="top">
+<td align="center">
 
-### 🔍 NLP
-` ` `
-━━━━━━━━━━━━━━━━━━━
-  Text Processing
-  Tokenization
-  Sentiment Analysis
-  Language Models
-  Text Classification
-━━━━━━━━━━━━━━━━━━━
-` ` `
+**🔍 NLP**
 
-</td>
-<td align="center" valign="top">
-
-### 👁️ Computer Vision
-` ` `
-━━━━━━━━━━━━━━━━━━━
-  Image Processing
-  Object Detection
-  Image Classification
-  OpenCV
-  CNN Architectures
-━━━━━━━━━━━━━━━━━━━
-` ` `
+<pre>
+Text Processing
+Tokenization
+Sentiment Analysis
+Language Models
+Text Classification
+</pre>
 
 </td>
-<td align="center" valign="top">
+<td align="center">
 
-### ⚡ MLOps
-` ` `
-━━━━━━━━━━━━━━━━━━━
-  Model Deployment
-  Pipeline Building
-  Experiment Tracking
-  API Integration
-  Jupyter Notebooks
-━━━━━━━━━━━━━━━━━━━
-` ` `
+**👁️ Computer Vision**
+
+<pre>
+Image Processing
+Object Detection
+Image Classification
+OpenCV
+CNN Architectures
+</pre>
+
+</td>
+<td align="center">
+
+**⚡ MLOps**
+
+<pre>
+Model Deployment
+Pipeline Building
+Experiment Tracking
+API Integration
+Jupyter Notebooks
+</pre>
 
 </td>
 </tr>
 </table>
-
 </div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║             SECTION 8: FULL STACK SHOWCASE                      ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<br/>
+---
 
 <div align="center">
 
 ## `💻 Full Stack Architecture`
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=600&color=00D4FF&center=true&vCenter=true&width=600&lines=Frontend+%7C+Backend+%7C+Database+%7C+APIs;End-to-End+Digital+Engineering;From+Pixels+to+Production" alt="FS Typing"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=600&color=00D4FF&center=true&vCenter=true&width=600&lines=Frontend+%7C+Backend+%7C+Database+%7C+APIs;End-to-End+Digital+Engineering;From+Pixels+to+Production" alt="FS Typing"/>
 
 <br/>
 
-` ` `
+<pre>
 ╔══════════════════════════════════════════════════════════════════════════╗
-║                     FULL STACK ARCHITECTURE                              ║
+║                      FULL STACK ARCHITECTURE                             ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║                                                                          ║
-║   ┌─────────────────────────────────────────────────────────────────┐   ║
-║   │                    🎨 FRONTEND LAYER                            │   ║
-║   │          React.js  •  HTML5  •  CSS3  •  TailwindCSS           │   ║
-║   │              Responsive  •  Accessible  •  Animated            │   ║
-║   └────────────────────────┬────────────────────────────────────────┘   ║
-║                            │  REST API / JSON                           ║
-║   ┌─────────────────────────────────────────────────────────────────┐   ║
-║   │                    ⚙️  BACKEND LAYER                            │   ║
-║   │         Node.js  •  Express.js  •  FastAPI  •  Python          │   ║
-║   │          Authentication  •  Authorization  •  Middleware       │   ║
-║   └────────────────────────┬────────────────────────────────────────┘   ║
-║                            │  ODM / ORM                                 ║
-║   ┌─────────────────────────────────────────────────────────────────┐   ║
-║   │                    🗄️  DATABASE LAYER                           │   ║
-║   │               MongoDB  •  MySQL  •  Schema Design              │   ║
-║   │              CRUD Operations  •  Aggregations  •  Joins        │   ║
-║   └─────────────────────────────────────────────────────────────────┘   ║
+║   ┌──────────────────────────────────────────────────────────────────┐   ║
+║   │                    🎨  FRONTEND LAYER                           │    ║
+║   │          React.js  •  HTML5  •  CSS3  •  TailwindCSS             │   ║
+║   │               Responsive  •  Accessible  •  Animated             │   ║
+║   └───────────────────────────┬──────────────────────────────────────┘   ║
+║                               │  REST API / JSON                         ║
+║   ┌──────────────────────────────────────────────────────────────────┐   ║
+║   │                    ⚙️   BACKEND LAYER                           │   ║
+║   │          Node.js  •  Express.js  •  FastAPI  •  Python           │   ║
+║   │           Authentication  •  Authorization  •  Middleware        │   ║
+║   └───────────────────────────┬──────────────────────────────────────┘   ║
+║                               │  ODM / ORM                               ║
+║   ┌──────────────────────────────────────────────────────────────────┐   ║
+║   │                    🗄️   DATABASE LAYER                          │   ║
+║   │               MongoDB  •  MySQL  •  Schema Design                │   ║
+║   │              CRUD Operations  •  Aggregations  •  Joins          │   ║
+║   └──────────────────────────────────────────────────────────────────┘   ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
-` ` `
+</pre>
 
 </div>
 
@@ -468,17 +332,13 @@ To build AI-driven products that solve **real-world problems at scale**, contrib
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║               SECTION 9: GITHUB ANALYTICS                       ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<br/>
+---
 
 <div align="center">
 
 ## `📊 GitHub Analytics`
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=Stats+%7C+Streaks+%7C+Contributions+%7C+Languages" alt="Analytics Typing"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=Stats+%7C+Streaks+%7C+Contributions+%7C+Languages" alt="Analytics Typing"/>
 
 <br/>
 
@@ -505,25 +365,17 @@ To build AI-driven products that solve **real-world problems at scale**, contrib
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║              SECTION 11: TROPHIES SECTION                       ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<br/>
+---
 
 <div align="center">
 
 ## `🏆 GitHub Trophies`
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=Achievements+%7C+Milestones+%7C+Impact" alt="Trophy Typing"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=Achievements+%7C+Milestones+%7C+Impact" alt="Trophy Typing"/>
 
 <br/>
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Susan5504R&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trophy Row 1"/>
-
-<br/>
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Susan5504R&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Trophy Row 2"/>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Susan5504R&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trophies"/>
 
 </div>
 
@@ -531,24 +383,20 @@ To build AI-driven products that solve **real-world problems at scale**, contrib
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║             SECTION 10: CONTRIBUTION SNAKE                      ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<br/>
+---
 
 <div align="center">
 
 ## `🐍 Contribution Snake`
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Watch+the+snake+eat+my+contributions+%F0%9F%90%8D" alt="Snake Typing"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Watch+the+snake+eat+my+contributions+%F0%9F%90%8D" alt="Snake Typing"/>
 
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Susan5504R/Susan5504R/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Susan5504R/Susan5504R/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Susan5504R/Susan5504R/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Susan5504R/Susan5504R/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </picture>
 
 </div>
@@ -557,60 +405,20 @@ To build AI-driven products that solve **real-world problems at scale**, contrib
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║               SECTION 13: QUOTE SECTION                         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<br/>
+---
 
 <div align="center">
 
 ## `💬 Words I Live By`
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=1500&color=A0C4FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=Code.+Learn.+Build.+Repeat.+🚀;Intelligence+is+the+ability+to+adapt.+🧠;First%2C+solve+the+problem.+Then%2C+write+the+code.+💡;The+best+code+is+code+that+doesn't+exist.+⚡;Data+is+the+new+oil+—+AI+is+the+refinery.+🤖;Build+things+that+matter.+✨;Stay+curious.+Stay+hungry.+Keep+building.+🌟" alt="Rotating Quotes"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=1500&color=A0C4FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Code.+Learn.+Build.+Repeat.+🚀;Intelligence+is+the+ability+to+adapt.+🧠;First%2C+solve+the+problem.+Then%2C+write+the+code.+💡;Data+is+the+new+oil+—+AI+is+the+refinery.+🤖;Build+things+that+matter.+✨;Stay+curious.+Stay+hungry.+Keep+building.+🌟" alt="Rotating Quotes"/>
 
 <br/><br/>
 
-<table align="center" width="80%" border="0">
-<tr>
-<td align="center" width="50%">
-
-> *"Any sufficiently advanced technology*
-> *is indistinguishable from magic."*
->
-> **— Arthur C. Clarke**
-
-</td>
-<td align="center" width="50%">
-
-> *"The only way to do great work*
-> *is to love what you do."*
->
-> **— Steve Jobs**
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-> *"It always seems impossible*
-> *until it's done."*
->
-> **— Nelson Mandela**
-
-</td>
-<td align="center">
-
-> *"Programs must be written for people*
-> *to read, and only incidentally for*
-> *machines to execute."*
->
-> **— Harold Abelson**
-
-</td>
-</tr>
-</table>
+| | |
+|:---:|:---:|
+| *"Any sufficiently advanced technology is indistinguishable from magic."* <br/>**— Arthur C. Clarke** | *"The only way to do great work is to love what you do."* <br/>**— Steve Jobs** |
+| *"It always seems impossible until it's done."* <br/>**— Nelson Mandela** | *"Programs must be written for people to read, and only incidentally for machines to execute."* <br/>**— Harold Abelson** |
 
 </div>
 
@@ -618,54 +426,25 @@ To build AI-driven products that solve **real-world problems at scale**, contrib
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║               SECTION 14: MUSIC / VIBES SECTION                 ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<br/>
+---
 
 <div align="center">
 
 ## `🎵 Coding Vibes`
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=1000&color=1DB954&center=true&vCenter=true&width=500&lines=Music+fuels+the+code+%F0%9F%8E%B5;Lo-fi+beats+%2B+Dark+Mode+%3D+Flow+State+%E2%9A%A1" alt="Music Typing"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=1000&color=1DB954&center=true&vCenter=true&width=500&lines=Music+fuels+the+code+%F0%9F%8E%B5;Lo-fi+beats+%2B+Dark+Mode+%3D+Flow+State+%E2%9A%A1" alt="Music Typing"/>
 
 <br/>
 
-<table align="center" width="85%" border="0">
-<tr>
-<td align="center" width="50%">
+| 🎧 Current Playlist | ⚡ Coding State |
+|:---:|:---:|
+| 🎵 Lo-Fi Hip Hop Study Beats | 🖥️ Dark Theme: **ALWAYS** |
+| 🎵 Synthwave / Retrowave | ☕ Coffee: **Necessary** |
+| 🎵 Deep Focus Coding Mix | 🌙 Peak Hours: **10PM – 2AM** |
+| 🎵 Chill Ambient Electronic | 🎯 Mode: **Deep Focus** |
+| 🎵 Phonk for Late Night Coding | 🔥 Status: **Building Dreams** |
 
-` ` `
-╔═══════════════════════════════════╗
-║       🎧 CURRENT PLAYLIST         ║
-╠═══════════════════════════════════╣
-║  🎵  Lo-Fi Hip Hop Study Beats   ║
-║  🎵  Synthwave / Retrowave       ║
-║  🎵  Deep Focus Coding Mix       ║
-║  🎵  Chill Ambient Electronic    ║
-║  🎵  Phonk for Late Night Coding ║
-╚═══════════════════════════════════╝
-` ` `
-
-</td>
-<td align="center" width="50%">
-
-` ` `
-╔═══════════════════════════════════╗
-║       ⚡ CODING STATE             ║
-╠═══════════════════════════════════╣
-║  🖥️  Dark Theme: ALWAYS          ║
-║  ☕  Coffee: Necessary           ║
-║  🌙  Peak Hours: 10PM - 2AM      ║
-║  🎯  Mode: Deep Focus            ║
-║  🔥  Status: Building Dreams     ║
-╚═══════════════════════════════════╝
-` ` `
-
-</td>
-</tr>
-</table>
+<br/>
 
 [![Spotify](https://img.shields.io/badge/Spotify-Currently_Coding_to_Lo--Fi-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)
 
@@ -675,28 +454,25 @@ To build AI-driven products that solve **real-world problems at scale**, contrib
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                 SECTION 16: SOCIALS                             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<br/>
+---
 
 <div align="center">
 
 ## `🌐 Let's Connect`
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Open+to+Collaborate+%7C+Learn+%7C+Grow;Let's+Build+Something+Amazing+Together!" alt="Connect Typing"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Open+to+Collaborate+%7C+Learn+%7C+Grow;Let's+Build+Something+Amazing+Together!" alt="Connect Typing"/>
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Susan5504R-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Susan5504R)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/sarah-sagri02-iiit-allahabad)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:sarahsagri02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/your-linkedin-here)
+[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/your-handle-here)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:your-email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7c3aed)](https://your-portfolio.dev)
 
 <br/>
 
-<img src="https://img.shields.io/badge/🟢%20Open%20To-Internships%20%26%20Collaborations-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Open To Work"/>
+![Open To](https://img.shields.io/badge/🟢_Open_To-Internships_%26_Collaborations-00d4ff?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -704,21 +480,17 @@ To build AI-driven products that solve **real-world problems at scale**, contrib
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  SECTION 18: FOOTER                             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<br/>
+---
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A0C4FF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%E2%9C%A8;Let's+build+the+future+together+%F0%9F%9A%80;See+you+in+the+next+commit!+%F0%9F%91%8B" alt="Footer Typing"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A0C4FF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%E2%9C%A8;Let's+build+the+future+together+%F0%9F%9A%80;See+you+in+the+next+commit!+%F0%9F%91%8B" alt="Footer Typing"/>
 
-<br/><br/>
+<br/>
 
-<p>
-  ⭐ &nbsp; ✨ &nbsp; 🌟 &nbsp; 💫 &nbsp; ⭐ &nbsp; ✨ &nbsp; 🌟 &nbsp; 💫 &nbsp; ⭐ &nbsp; ✨ &nbsp; 🌟 &nbsp; 💫
-</p>
+⭐ &nbsp; ✨ &nbsp; 🌟 &nbsp; 💫 &nbsp; ⭐ &nbsp; ✨ &nbsp; 🌟 &nbsp; 💫 &nbsp; ⭐ &nbsp; ✨ &nbsp; 🌟 &nbsp; 💫
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,30:16213e,60:1a1a2e,100:0d1117&height=160&section=footer&text=Sarah%20%40%20Susan5504R&fontSize=28&fontColor=00d4ff&fontAlignY=65&desc=IIIT%20Allahabad%20%7C%20AI%2FML%20%7C%20Full%20Stack&descSize=14&descAlignY=85&descColor=a0c4ff&animation=fadeIn" alt="Footer Wave"/>
 
