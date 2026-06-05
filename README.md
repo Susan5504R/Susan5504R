@@ -428,28 +428,6 @@ Jupyter Notebooks
 
 ---
 
-<div align="center">
-
-## `🎵 Coding Vibes`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=1000&color=1DB954&center=true&vCenter=true&width=500&lines=Music+fuels+the+code+%F0%9F%8E%B5;Lo-fi+beats+%2B+Dark+Mode+%3D+Flow+State+%E2%9A%A1" alt="Music Typing"/>
-
-<br/>
-
-| 🎧 Current Playlist | ⚡ Coding State |
-|:---:|:---:|
-| 🎵 Lo-Fi Hip Hop Study Beats | 🖥️ Dark Theme: **ALWAYS** |
-| 🎵 Synthwave / Retrowave | ☕ Coffee: **Necessary** |
-| 🎵 Deep Focus Coding Mix | 🌙 Peak Hours: **10PM – 2AM** |
-| 🎵 Chill Ambient Electronic | 🎯 Mode: **Deep Focus** |
-| 🎵 Phonk for Late Night Coding | 🔥 Status: **Building Dreams** |
-
-<br/>
-
-[![Spotify](https://img.shields.io/badge/Spotify-Currently_Coding_to_Lo--Fi-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)
-
-</div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -465,9 +443,8 @@ Jupyter Notebooks
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Susan5504R-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Susan5504R)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/your-linkedin-here)
-[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/your-handle-here)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/sarah-sagri02-iiit-allahabad)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:sarahsagri02@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7c3aed)](https://your-portfolio.dev)
 
 <br/>
